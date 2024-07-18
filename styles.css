@@ -1,0 +1,12 @@
+body{
+    display: flex;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+}
+img{
+    margin: auto;
+    display: block; 
+}
